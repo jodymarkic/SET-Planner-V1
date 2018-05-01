@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SETPlannerV4</string>
+    <string name="activity2">Projects</string>
+    <string name="activity3">Schedule</string>
+    <string name="activity1">Courses</string>
+    <string name="add_course_button_text">+</string>
+    <string name="ProjectPrompt">Add a project:</string>
+    <string name="NoProjectsDue">No project due!</string>
+    <string name="enter_a_course">Enter a course</string>
+    <string name="DelCourse">"           Delete selected course? </string>
+    <string name="DelProject">            Delete selected Project? </string>
+    <string name="dueString">Due: %1$s</string>
+    <string name="course_name">Course Name</string>
+    <string name="_2017_12_12">2017-12-12</string>
+    <string name="projname">projName</string>
+    <string name="incomplete">incomplete</string>
+</resources>
